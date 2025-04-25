@@ -74,7 +74,9 @@ python rss.py <game_period> <game_immunity>
 
 Example:
 
+```
 python rss.py 1 1
+```
 
 - `<game_period>`: The number of steps after which the game server queries the snake server for its next move.
 - `<game_immunity>`: The duration (in steps) for which the snake gains temporary immunity after eating an apple.
@@ -89,7 +91,9 @@ python yss.py <game_period> <game_immunity>
 
 Example:
 
+```
 python yss.py 1 1
+```
 
 - `<game_period>`: The number of steps after which the game server queries the snake server for its next move.
 - `<game_immunity>`: The duration (in steps) for which the snake gains temporary immunity after eating an apple.
